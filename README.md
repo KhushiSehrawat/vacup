@@ -1,6 +1,6 @@
 # VacUp
 
-VacUp is your proactive healthcare companion, dedicated to ensuring accessible and timely vaccination services for all. 
+VacUp is your proactive healthcare companion, dedicated to ensuring accessible and timely vaccination services for everyone.
 
 ## Table of Contents
 
